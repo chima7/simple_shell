@@ -1,2 +1,2 @@
 # simple_shell
-group project 
+group projectb 
